@@ -1,4 +1,4 @@
-import React, { useState, useRef, useCallback, useEffect } from 'react';
+import React, { useState, useRef, useCallback } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 import * as yup from 'yup';
 import getValidationErrors from '../../utils/getValidationErrors';
